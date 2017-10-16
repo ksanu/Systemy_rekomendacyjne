@@ -1,0 +1,7 @@
+Jak to obs³u¿yæ:
+ - systemomierz.py (od dr Szwabe)
+  linia 1152-1153 - przyk³adowy system podpiêty i gotowy do zmierzenia
+ - wlasnyrs.py 
+  tutaj komentarze s¹ wiêc wiadomo ocb
+
+Odpalaæ systemomierz.py i powinno wypluæ jakieœ obrazki z pomiarami ³¹cznie z nowym systemem.
